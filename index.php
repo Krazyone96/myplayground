@@ -17,7 +17,8 @@
 
 		<h1> Welcome to my world 
 		</h1>
-		
+		<?php echo "Hello World";
+		?>
 		
 		<!-- Load external JavaScript -->
 		<script src="script.js"> </script>
